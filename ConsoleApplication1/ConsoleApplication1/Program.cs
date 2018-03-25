@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("A small change is all I need");
+            Console.WriteLine("Here is another small change");
             Console.ReadLine();
         }
     }
