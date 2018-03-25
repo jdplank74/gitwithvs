@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("A small change is all I need");
             Console.WriteLine("Here is another small change");
+            Console.WriteLine("Adding Feature2");
             Console.ReadLine();
         }
     }
